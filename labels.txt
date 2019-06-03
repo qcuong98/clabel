@@ -1,0 +1,8 @@
+image
+chart
+table
+paragraph
+heading
+image_caption
+credit
+page_number
